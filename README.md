@@ -9,7 +9,7 @@
 ![](https://github.com/FajarTheGGman/Hashing-Craking/blob/master/.img/h2.PNG)
 
 # Demo
-![](https://asciinema.org/a/roZWKwX61PcEsRMY3FDFm0uPI)
+[![ascii](https://asciinema.org/a/286741.png)](https://asciinema.org/a/286741)
 
 # How To Install ?
 <pre>
