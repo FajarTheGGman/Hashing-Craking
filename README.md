@@ -8,6 +8,9 @@
 ![](https://github.com/FajarTheGGman/Hashing-Craking/blob/master/.img/h1.PNG)
 ![](https://github.com/FajarTheGGman/Hashing-Craking/blob/master/.img/h2.PNG)
 
+# Demo
+![](https://asciinema.org/a/roZWKwX61PcEsRMY3FDFm0uPI)
+
 # How To Install ?
 <pre>
 1.apt-get install php git -y
