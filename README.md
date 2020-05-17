@@ -18,3 +18,6 @@
 3.cd Hashing-Craking
 4.php hash.php
 </pre>
+
+# Support Me :)
+![donate](https://raw.githubusercontent.com/FajarTheGGman/F-Tools/master/.images/donate.jpeg)
